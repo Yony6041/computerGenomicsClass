@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.26)  26 SEP 2021 21:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.26)  26 SEP 2021 22:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -103,6 +103,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count179
 \pdfmajorversion=\count180
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
 Package hyperref Info: Hyper figures OFF on input line 4547.
 Package hyperref Info: Link nesting OFF on input line 4552.
 Package hyperref Info: Hyper index ON on input line 4555.
@@ -129,7 +130,7 @@ Package hyperref Info: Hyper figures OFF on input line 6430.
 Package hyperref Info: Link nesting OFF on input line 6435.
 Package hyperref Info: Hyper index ON on input line 6438.
 Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring ON on input line 6448.
 Package hyperref Info: Link coloring with OCG OFF on input line 6455.
 Package hyperref Info: PDF/A mode OFF on input line 6460.
 LaTeX Info: Redefining \ref on input line 6500.
@@ -182,22 +183,22 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 ) (/home/berith/ciencias/2021-2022/genomics/main.aux (/home/berith/ciencias/2021-2022/genomics/adn.aux) (/home/berith/ciencias/2021-2022/genomics/video.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count192
@@ -218,7 +219,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box47
-Package hyperref Info: Link coloring OFF on input line 8.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 12.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -228,9 +236,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count198
 )
-LaTeX Info: Redefining \ref on input line 8.
-LaTeX Info: Redefining \pageref on input line 8.
-LaTeX Info: Redefining \nameref on input line 8.
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
  (/home/berith/ciencias/2021-2022/genomics/main.out) (/home/berith/ciencias/2021-2022/genomics/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -271,68 +279,68 @@ LaTeX Info: Redefining \nameref on input line 8.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 11.
+(Font)              <14.4> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 15.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 \openout2 = `adn.aux'.
 
  (/home/berith/ciencias/2021-2022/genomics/adn.tex
-<bases.jpg, id=19, 438.09691pt x 259.66035pt>
-File: bases.jpg Graphic file (type jpg)
-<use bases.jpg>
-Package pdftex.def Info: bases.jpg  used on input line 19.
+<public/bases.jpg, id=19, 438.09691pt x 259.66035pt>
+File: public/bases.jpg Graphic file (type jpg)
+<use public/bases.jpg>
+Package pdftex.def Info: public/bases.jpg  used on input line 19.
 (pdftex.def)             Requested size: 438.09584pt x 259.65971pt.
  [2
 
- </home/berith/ciencias/2021-2022/genomics/bases.jpg>]
-<dna2.jpg, id=33, 260.975pt x 281.05pt>
-File: dna2.jpg Graphic file (type jpg)
-<use dna2.jpg>
-Package pdftex.def Info: dna2.jpg  used on input line 38.
+ </home/berith/ciencias/2021-2022/genomics/public/bases.jpg>]
+<public/dna2.jpg, id=33, 260.975pt x 281.05pt>
+File: public/dna2.jpg Graphic file (type jpg)
+<use public/dna2.jpg>
+Package pdftex.def Info: public/dna2.jpg  used on input line 38.
 (pdftex.def)             Requested size: 260.97437pt x 281.0493pt.
-<nucleotide.jpg, id=34, 803.0pt x 421.575pt>
-File: nucleotide.jpg Graphic file (type jpg)
-<use nucleotide.jpg>
-Package pdftex.def Info: nucleotide.jpg  used on input line 48.
+<public/nucleotide.jpg, id=34, 803.0pt x 421.575pt>
+File: public/nucleotide.jpg Graphic file (type jpg)
+<use public/nucleotide.jpg>
+Package pdftex.def Info: public/nucleotide.jpg  used on input line 48.
 (pdftex.def)             Requested size: 284.52756pt x 149.38034pt.
- [3 </home/berith/ciencias/2021-2022/genomics/dna2.jpg> </home/berith/ciencias/2021-2022/genomics/nucleotide.jpg>]
-<adn3.jpg, id=44, 602.25pt x 298.11375pt>
-File: adn3.jpg Graphic file (type jpg)
-<use adn3.jpg>
-Package pdftex.def Info: adn3.jpg  used on input line 64.
+ [3 </home/berith/ciencias/2021-2022/genomics/public/dna2.jpg> </home/berith/ciencias/2021-2022/genomics/public/nucleotide.jpg>]
+<public/adn3.jpg, id=44, 602.25pt x 298.11375pt>
+File: public/adn3.jpg Graphic file (type jpg)
+<use public/adn3.jpg>
+Package pdftex.def Info: public/adn3.jpg  used on input line 64.
 (pdftex.def)             Requested size: 526.37598pt x 260.5805pt.
-) [4 </home/berith/ciencias/2021-2022/genomics/adn3.jpg>]
+) [4 </home/berith/ciencias/2021-2022/genomics/public/adn3.jpg>]
 \openout2 = `video.aux'.
 
  (/home/berith/ciencias/2021-2022/genomics/video.tex) [5
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 13.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 13.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
  (/home/berith/ciencias/2021-2022/genomics/main.aux (/home/berith/ciencias/2021-2022/genomics/adn.aux) (/home/berith/ciencias/2021-2022/genomics/video.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 13.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 13.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C227BF00E5B5772DEB1388C832088DA3;118.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 13.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 17.
  ) 
 Here is how much of TeX's memory you used:
- 6283 strings out of 481239
- 96653 string characters out of 5920377
- 371146 words of memory out of 5000000
- 21419 multiletter control sequences out of 15000+600000
+ 6329 strings out of 481239
+ 97487 string characters out of 5920377
+ 372124 words of memory out of 5000000
+ 21460 multiletter control sequences out of 15000+600000
  535445 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,32p,288b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,6n,32p,288b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /home/berith/ciencias/2021-2022/genomics/main.pdf (5 pages, 193096 bytes).
+Output written on /home/berith/ciencias/2021-2022/genomics/main.pdf (5 pages, 193374 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  25 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
