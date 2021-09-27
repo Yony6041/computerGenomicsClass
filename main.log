@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.26)  27 SEP 2021 01:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.26)  27 SEP 2021 02:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -180,7 +180,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count191
 \l__pdf_internal_box=\box45
-) (/home/berith/ciencias/2021-2022/genomics/main.aux (/home/berith/ciencias/2021-2022/genomics/adn.aux) (/home/berith/ciencias/2021-2022/genomics/video.aux))
+) (/home/berith/ciencias/2021-2022/genomics/main.aux (/home/berith/ciencias/2021-2022/genomics/adn.aux) (/home/berith/ciencias/2021-2022/genomics/video.aux) (/home/berith/ciencias/2021-2022/genomics/lectureHistory.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -288,7 +288,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout2 = `adn.aux'.
 
  (/home/berith/ciencias/2021-2022/genomics/adn.tex
-<public/bases.jpg, id=23, 438.09691pt x 259.66035pt>
+<public/bases.jpg, id=27, 438.09691pt x 259.66035pt>
 File: public/bases.jpg Graphic file (type jpg)
 <use public/bases.jpg>
 Package pdftex.def Info: public/bases.jpg  used on input line 19.
@@ -296,18 +296,18 @@ Package pdftex.def Info: public/bases.jpg  used on input line 19.
  [2
 
  </home/berith/ciencias/2021-2022/genomics/public/bases.jpg>]
-<public/dna2.jpg, id=37, 260.975pt x 281.05pt>
+<public/dna2.jpg, id=41, 260.975pt x 281.05pt>
 File: public/dna2.jpg Graphic file (type jpg)
 <use public/dna2.jpg>
 Package pdftex.def Info: public/dna2.jpg  used on input line 38.
 (pdftex.def)             Requested size: 260.97437pt x 281.0493pt.
-<public/nucleotide.jpg, id=38, 803.0pt x 421.575pt>
+<public/nucleotide.jpg, id=42, 803.0pt x 421.575pt>
 File: public/nucleotide.jpg Graphic file (type jpg)
 <use public/nucleotide.jpg>
 Package pdftex.def Info: public/nucleotide.jpg  used on input line 48.
 (pdftex.def)             Requested size: 284.52756pt x 149.38034pt.
  [3 </home/berith/ciencias/2021-2022/genomics/public/dna2.jpg> </home/berith/ciencias/2021-2022/genomics/public/nucleotide.jpg>]
-<public/adn3.jpg, id=48, 602.25pt x 298.11375pt>
+<public/adn3.jpg, id=52, 602.25pt x 298.11375pt>
 File: public/adn3.jpg Graphic file (type jpg)
 <use public/adn3.jpg>
 Package pdftex.def Info: public/adn3.jpg  used on input line 59.
@@ -316,13 +316,13 @@ Package pdftex.def Info: public/adn3.jpg  used on input line 59.
 \openout2 = `video.aux'.
 
  (/home/berith/ciencias/2021-2022/genomics/video.tex
-<public/historyGenomics.jpg, id=59, 246.6816pt x 185.0112pt>
+<public/historyGenomics.jpg, id=63, 246.6816pt x 185.0112pt>
 File: public/historyGenomics.jpg Graphic file (type jpg)
 <use public/historyGenomics.jpg>
 Package pdftex.def Info: public/historyGenomics.jpg  used on input line 9.
 (pdftex.def)             Requested size: 569.05511pt x 426.88597pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--28
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
 
  []
 
@@ -330,33 +330,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--28
 
 
  </home/berith/ciencias/2021-2022/genomics/public/historyGenomics.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 30--33
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
 [6]) [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
- (/home/berith/ciencias/2021-2022/genomics/main.aux (/home/berith/ciencias/2021-2022/genomics/adn.aux) (/home/berith/ciencias/2021-2022/genomics/video.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
+\openout2 = `lectureHistory.aux'.
+
+ (/home/berith/ciencias/2021-2022/genomics/lectureHistory.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+<public/Needleman.png, id=89, 853.1875pt x 562.1pt>
+File: public/Needleman.png Graphic file (type png)
+<use public/Needleman.png>
+Package pdftex.def Info: public/Needleman.png  used on input line 20.
+(pdftex.def)             Requested size: 569.05511pt x 374.93254pt.
+ [8
+
+
+ </home/berith/ciencias/2021-2022/genomics/public/Needleman.png>]) [9]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
+ (/home/berith/ciencias/2021-2022/genomics/main.aux (/home/berith/ciencias/2021-2022/genomics/adn.aux) (/home/berith/ciencias/2021-2022/genomics/video.aux) (/home/berith/ciencias/2021-2022/genomics/lectureHistory.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 18.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1F41FA2649792FA92A3107A4B8305132;194.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 17.
+(rerunfilecheck)             Checksum: CD28DA65ED876C19F24478C4DF644750;270.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 18.
  ) 
 Here is how much of TeX's memory you used:
- 6350 strings out of 481239
- 97793 string characters out of 5920377
- 374165 words of memory out of 5000000
- 21467 multiletter control sequences out of 15000+600000
- 535445 words of font info for 34 fonts, out of 8000000 for 9000
+ 6396 strings out of 481239
+ 98642 string characters out of 5920377
+ 374524 words of memory out of 5000000
+ 21489 multiletter control sequences out of 15000+600000
+ 537883 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,6n,32p,290b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /home/berith/ciencias/2021-2022/genomics/main.pdf (7 pages, 404052 bytes).
+ 34i,6n,32p,290b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /home/berith/ciencias/2021-2022/genomics/main.pdf (9 pages, 509267 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 38 named destinations out of 1000 (max. 500000)
- 50 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 146 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
