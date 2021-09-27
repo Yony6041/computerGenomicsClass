@@ -1,0 +1,3 @@
+\chapter{Second file}
+ change test3
+\endinput
